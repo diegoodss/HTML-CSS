@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 120px;
+    background-color: yellowgreen;
+}
+
+nav{
+    height: 60px;
+    background-color: aqua;
+}
+
+main{
+    background-color: green;
+    height: 600px;
+    padding: 25px;
+}
+
+
+
+#section1{
+    background-color: aquamarine;
+    height: 550px;
+    width: 60%;
+    float: left;
+}
+
+#section2{
+    background-color: black;
+    height: 550px;
+    width: 40%;
+    float: right;
+}
+
+article{
+    background-color: palegoldenrod;
+    height: 250px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 5%;
+}
+
+footer{
+    height: 100px;
+    background-color: blue;
+}
